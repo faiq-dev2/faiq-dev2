@@ -1,26 +1,57 @@
-# 💫 About Me:
-- 💻 Junior PHP/Laravel Developer with real-world project experience  <br>- 🔭 Currently working at **Digitizal**  <br>- 🌱 Learning **Mernstack**  <br>- ⚡ Strong in full-stack development & MySQL  <br>- 📍 Based in Karachi, Pakistan 
+<h1 align="center">Hi 👋, I'm Muhammad Faiq Khan</h1>
+<h3 align="center">PHP / Laravel Developer | Building Web-Applications, ERP, HRM & POS systems | Exploring AI Integration</h3>
 
+---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-faiq-9146982a3/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:faiq.dev2@gmail.com) 
+### 🚀 About Me
+- 💼 Currently working as a **PHP/Laravel Developer** building Web-Applications, ERP, HRM & POS systems
+- 🎓 Final semester at Aptech | Enrolled at Virtual University
+- 🌱 Currently learning **Python + AI API integration** (FastAPI, prompt engineering, RAG)
+- 🔭 Building side projects around SaaS, automation & AI-powered tools
+- 📍 Based in Karachi, Pakistan
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=faiq-dev2&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)
+### 🛠️ Tech Stack
 
-![](https://nirzak-streak-stats.vercel.app/?user=faiq-dev2&theme=blue-green&hide_border=false)
+**Backend**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=faiq-dev2&theme=blue-green&hide_border=false&layout=compact)
+**Frontend**
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=white)
+![React.js](https://img.shields.io/badge/React.js-8BC0D0?style=for-the-badge&logo=react&logoColor=white)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Faiq Khan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+**Tools & DevOps**
+![Cursor](https://img.shields.io/badge/Cursor%20AI-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white)
+![VPS](https://img.shields.io/badge/VPS-2496ED?style=for-the-badge&logo=linux&logoColor=white)
+
+**Exploring**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+---
+
+### 📌 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [Unique Invoice Generator](https://uniqueinvoicegenerator.com) | Free online invoice & quotation creator tool | HTML, JS |
+| [Project Name] | Short one-line description | Laravel, MySQL |
+| [AI Integrations Lab] | AI API integration experiments & tools | Python, FastAPI |
+
+---
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Faiq Khan&icon=10&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 📫 Connect with Me
+- Portfolio: [faiq-dev-portfolio.netlify.app](https://faiq-dev-portfolio.netlify.app)
+- LinkedIn: [linkedin.com/in/muhammad-faiq-9146982a3](https://www.linkedin.com/in/muhammad-faiq-9146982a3)
+- Email: [faiq.dev2@gmail.com](faiq.dev2@gmail.com)
+
+---
+<p align="center"><i>Open to PHP/Laravel Developer opportunities</i></p>
