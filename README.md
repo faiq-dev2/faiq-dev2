@@ -38,7 +38,7 @@
 | Project | Description | Tech |
 |---|---|---|
 | [Unique Invoice Generator](https://uniqueinvoicegenerator.com) | Free online invoice & quotation creator tool | HTML, JS |
-| [Project Name] | Short one-line description | Laravel, MySQL |
+| [Advance School Management System](https://asms.free.nf/login) | Advance School Management System with Ai | Laravel, Open AI Api, MySQL |
 | [AI Integrations Lab] | AI API integration experiments & tools | Python, FastAPI |
 
 ---
